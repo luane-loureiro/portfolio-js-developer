@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "HTML5",
-        "logo": "../src/img/html5.png"
+        "logo": "/imgs/html5.png"
       },
       {
         "name": "Java Script",
