@@ -1,78 +1,95 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Luane Loureiro",
+  "photo": "https://avatars.githubusercontent.com/u/100947092?v=4",
+  "job": "Front-End Developer JR",
+  "location": "Rio de Janeiro / RJ",
+  "phone": "(21) 99473-6215",
+  "email": "luachan4@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "HTML5",
+        "logo": "../src/img/html5.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "Java Script",
+        "logo": "/imgs/javascript.png"
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "imgs/angular.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "CSS3",
+        "logo": "imgs/CSS.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "AWS",
+        "logo": "imgs/AWS.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Type Script",
+        "logo": "imgs/typeScript.png"
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
-      "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
+      "Problem Solving",
+      "Creativity",
+      "Responsibility"
     ]
   },
   "languages": [
-    "Português BR",
+    "Português BR (Nativo)",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Japonês (Básico)"
   ],
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/luane-loureiro/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Jogo de Click Inspirado em Detonha Ralph",
+      "url": "https://github.com/luane-loureiro/Detona-Ralph-Game-V0.1",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Piano Virtual",
+      "url": "https://github.com/luane-loureiro/Piano-virtual",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Jogo da Memória",
+      "url": "https://github.com/luane-loureiro/Jogo-da-memoria-emoji",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Jogo de Jokenpo inspirado em Yugioh ",
+      "url": "https://github.com/luane-loureiro/jogo-yugioh",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Jogo de adivinhação ",
+      "url": "https://github.com/luane-loureiro/Jogo_do_numero_secreto_2.0",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/luane-loureiro/js-developer-portfolio",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Design - Nerd Shop",
+      "period": "2012 - Now days",
+      "description": "CEO, Creation of visual identity and trademark, Development of exclusive products, Development of the Virtual store, Responsible for social media. "
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Restorer of Historical Works - FAU/UFRJ",
+      "period": "2008 - 2009",
+      "description": "Scientific initiation scholarship, in the FAU historical collection, Research in the area of paper restoration, Restoration and conservation of original architectural designs of historic buildings."
     }
   ]
 }
